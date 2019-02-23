@@ -48,6 +48,6 @@ def crawling(id):
                 index += 1
         print('第%d个答案爬取完成,当前总进度%.2f%%' % (i,i/question.answer_count*100))
 
-login('cjp940502@qq.com','94c05j02p')
+login('****','****')
 crawling(297715922)
 #有一副令人羡慕的好身材是怎样的体验？ https://www.zhihu.com/question/297715922/answer/546342151
